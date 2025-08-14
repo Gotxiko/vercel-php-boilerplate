@@ -12,5 +12,8 @@
   },
   "devDependencies": {
     "vite": "^7.1.2"
+  },
+  "overrides": {
+    "vite": "npm:rolldown-vite@latest"
   }
 }
