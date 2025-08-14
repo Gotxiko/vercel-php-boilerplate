@@ -2,4 +2,4 @@
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-phpinfo();
+require_once __DIR__ . '/../app/index.php';

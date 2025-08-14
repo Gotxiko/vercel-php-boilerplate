@@ -3,3 +3,7 @@
 
 # Vercel
 .vercel
+
+# NODE
+/node_modules
+/dist
